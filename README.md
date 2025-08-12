@@ -3,9 +3,9 @@
 ![Plugin Banner](./img/1.png) <!-- Opcional: Podés crear una imagen de cabecera y subirla al repo -->
 
 **Versión:** 1.5.1  
-**Autor:** Juan de !Juvi | Automatizaciones web(https://instagram.com/juviweb)  
+**Autor:** [Juan](https://instagram.com/juanchisal10) de [Juvi | Automatizaciones web](https://instagram.com/juviweb)  
 **Requiere WordPress:** 5.0 o superior  
-**Probado hasta:** 6.2 (o la versión que hayas probado)  
+**Probado hasta:** 6.2   
 **Licencia:** GPLv2 or later  
 **URI de la Licencia:** https://www.gnu.org/licenses/gpl-2.0.html
 
